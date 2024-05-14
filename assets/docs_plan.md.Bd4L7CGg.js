@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.CrCe-Drv.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"docs/plan.md","filePath":"docs/plan.md","lastUpdated":1715571097000}'),o={name:"docs/plan.md"};function s(n,c,r,p,d,l){return a(),t("div")}const m=e(o,[["render",s]]);export{i as __pageData,m as default};
